@@ -18,6 +18,7 @@
 [Moi 😄](https://github.com/12moi)
 - [Nandu P K](https://github.com/pkNandu)
 - [Arpit Jain](https://github.com/code-arpit) 
+- Dona Gino (https://github.com/supergirl21)
 - [Mitch Sfakianos](https://github.com/mazarinno)
 - [Rithick Chowdhury](https://github.com/Rithick69)
 - [Hamdi Vazim](https://github.com/hamdivazim)
